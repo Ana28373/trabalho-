@@ -1,0 +1,8 @@
+lacta = 16
+toblerone = 23
+if lacta < 16:
+  print("Produto disponivel Temos", lacta)
+if toblerone < 23 :
+  print("Produto disponivel Temos:", toblerone)
+else:
+  print("Não temos este produto")
