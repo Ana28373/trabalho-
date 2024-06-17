@@ -1,0 +1,11 @@
+produto = int(input("selecione quantos produtos"))
+kitkat = 30
+alpino = 40
+suflair = 67
+
+if alpino < 30:
+    print("produto disponivel! Temos:", alpino)
+    
+if kitkat < 30:
+    print("produto disponivel! Temos;", kitkat)
+if suflair < 67:
